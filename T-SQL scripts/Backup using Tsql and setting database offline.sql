@@ -1,0 +1,5 @@
+BACKUP DATABASE [Groupwork]
+TO DISK = 'B:\TESTPRJ\GroupWork_B4_Main_022022.bak'
+
+ALTER DATABASE [Groupwork] SET OFFLINE
+GO
